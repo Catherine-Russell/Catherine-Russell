@@ -1,5 +1,4 @@
 ### Hi there 👋
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-russell-19002866/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-russell-19002866/)
 
 [![email](https://img.shields.io/badge/catherinerussell.uk@gmail.com-%23D14836.svg?logo=gmail&logoColor=white)](mailto:catherinerussell.uk@gmail.com)
