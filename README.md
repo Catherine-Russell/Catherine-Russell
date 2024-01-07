@@ -47,8 +47,7 @@ Wilbury Primary School, London | Sept 2018 - Aug 2022
 Trained with TeachFirst 2018-2020, subject lead Sept 2020 - 2022
 - Worked closely with my team to plan lessons, schemes of work and interventions to ensure Year 6 pupils achieved SATs results equal to or exceeding national average
 - Maintained high quality teaching and ensured pupil progress, despite the impact of COVID and transition to online learning
-- Effectively communicated complex concepts in a range of subjects in a clear and simple way, ensuring all pupils understood new learning
-
+  
 ## Translator and Sales Assistant
 Next Diversity Corporation, Osaka, Japan | Sept 2017 - June 2018
 - Utilised business-level Japanese to work with businesses in hospitality sector and promote ‘Food Pict’ and online ‘Japan Food Guide’ website
