@@ -43,7 +43,7 @@ Thomas Buxton Primary School, London | Sept 2022 - Aug 2023
 - School judged Outstanding in 2023
 
 ## Classroom Teacher and History Lead
-Wilbury Primary School, London | Sept 2018 - Aug 2022
+Wilbury Primary School, London | Sept 2018 - Aug 2022 <br>
 Trained with TeachFirst 2018-2020, subject lead Sept 2020 - 2022
 - Worked closely with my team to plan lessons, schemes of work and interventions to ensure Year 6 pupils achieved SATs results equal to or exceeding national average
 - Maintained high quality teaching and ensured pupil progress, despite the impact of COVID and transition to online learning
