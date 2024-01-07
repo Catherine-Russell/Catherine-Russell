@@ -59,3 +59,4 @@ Sumoto City Board of Education, Hyogo, Japan | Aug 2014 - Aug 2017
 - 🎭 Acting
 - 🚴🏻‍♀️ Cycling
 - 🥾 Hiking
+- 🏕️ Camping
