@@ -55,6 +55,18 @@ Next Diversity Corporation, Osaka, Japan | Sept 2017 - June 2018
 Sumoto City Board of Education, Hyogo, Japan | Aug 2014 - Aug 2017
 - Worked with teachers using Japanese to deliver fun and effective lessons for pupils in all primary years
 
+# Education
+- 2020 - PGDE Primary (TeachFirst) | University College London
+
+- 2014 - BA Spanish and Japanese First Class Hons | University of Manchester <br>
+  Study abroad placements at University of Seville and Kwansei Gakuin University
+
+- 2009 - A levels | A in English Literature, Spanish, French, Psychology and in Theatre Studies As
+
+- 2007 - GCSEs | 11 A*,  1 A <br>
+    A* in Maths, Double Science, English Literature, English Language, French, Spanish, Drama, Dance, Citizenship; A in RE
+
+
 # Interests
 - 🎭 Acting
 - 🚴🏻‍♀️ Cycling
