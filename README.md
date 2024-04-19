@@ -11,12 +11,6 @@
 I am a passionate and motivated professional, excited to bring the skills I have gained from teaching to fullstack software development. <br>
 
 
-## Key skills:
-- **Fast learner** - learnt Python, JavaScript, React, Git, SQL/no-SQL databases in 16 weeks
-- **Key engineering practices** - Agile framework, Test-Driven Development, pair programming, Object-oriented programming
-- **Strong leadership, communication and interpersonal skills** - maintained excellent relationships as team member and subject lead
-- **Multilingual** - Japanese and Spanish, with experience working abroad
-
 # My Projects:
 
 | Title  | About | Tech Stack |
